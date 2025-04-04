@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Olá! 👋 Eu sou Mateus Marcolino<br>🔭 Atualmente, trabalho como Desenvolvedor Java, criando APIs RESTful escaláveis com Spring.<br><br>📚 Tenho experiência em bancos de dados relacionais (MySQL, PostgreSQL) e NoSQL (MongoDB), aplicando boas práticas de modelagem e otimização.<br><br>⚡ No meu tempo livre, gosto de explorar novas tecnologias, automatizar tarefas.<br><br>📫 Vamos nos conectar!</p>
+<p align="left">Olá! 👋 Eu sou Mateus Marcolino<br>🔭 Atualmente, trabalho como Desenvolvedor Java, criando APIs RESTful escaláveis com Spring.<br><br>📚 Tenho experiência em bancos de dados relacionais (MySQL, PostgreSQL), aplicando boas práticas de modelagem e otimização.<br><br>⚡ No meu tempo livre, gosto de explorar novas tecnologias, automatizar tarefas.<br><br>📫 Vamos nos conectar!</p>
 
 ###
 
